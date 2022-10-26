@@ -1,7 +1,7 @@
 altgraph==0.16.1
 astroid==2.3.3
 auto-py-to-exe==2.6.6
-bottle==0.12.13
+bottle==0.12.20
 bottle-websocket==0.2.9
 certifi==2018.4.16
 cffi==1.11.5
@@ -21,7 +21,7 @@ lazy-object-proxy==1.4.3
 macholib==1.10
 matplotlib==2.2.2
 mccabe==0.6.1
-numpy==1.15.4
+numpy==1.22.2
 pefile==2017.11.5
 protobuf==3.6.1
 pycparser==2.18
