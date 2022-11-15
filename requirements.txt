@@ -21,7 +21,7 @@ lazy-object-proxy==1.4.3
 macholib==1.10
 matplotlib==2.2.2
 mccabe==0.6.1
-numpy==1.15.4
+numpy==1.22.2
 pefile==2017.11.5
 protobuf==3.6.1
 pycparser==2.18
@@ -41,3 +41,4 @@ typed-ast==1.4.1
 urllib3==1.24.2
 whichcraft==0.4.1
 wrapt==1.11.2
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
